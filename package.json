@@ -92,7 +92,7 @@
     "bignumber.js": "^9.0.0",
     "blakejs": "^1.1.0",
     "bootstrap": "4.4.1",
-    "bootstrap-colorpicker": "^3.2.0",
+    "bootstrap-colorpicker": "^3.4.0",
     "bootstrap-material-design": "^4.1.2",
     "bson": "^4.0.2",
     "chi-squared": "^1.1.0",
